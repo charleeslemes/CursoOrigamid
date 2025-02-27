@@ -1,0 +1,21 @@
+/*
+  theme name: cursoOrigamid
+*/
+
+
+
+@import './Css//base.css';
+
+@import './Css/header.css';
+
+@import './Css//slide.css';
+
+@import './Css/home.css';
+
+@import './Css/produtos.css';
+
+@import './Css/footer.css';
+
+@import './Css/singleProduct.css';
+
+@import './Css/woocommerce.css';
